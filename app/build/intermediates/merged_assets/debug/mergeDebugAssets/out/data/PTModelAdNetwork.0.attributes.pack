@@ -1,0 +1,9 @@
+ŠÌú‚Í.Â
+„¦App IDÙ&ca-app-pub-4193212979588325~3054871466©Banner IDÙ&ca-app-pub-4193212979588325/9927595093¯Interstitial IDÙ&ca-app-pub-4193212979588325/5988350082±Rewarded Video IDÙ&ca-app-pub-4193212979588325/2532127289*Í.—!°PTModelAdNetworkÍ‚Í.Â
+Ù/<string name="admob_app_id">{{App ID}}</string>Ì–‚Í.Â
+ ÌÖ‚Í.Â
+¥admobÌØ‚Í.Â
+Ù6https://policies.google.com/technologies/partner-sitesÍ?‚Í.Â
+§AndroidÌä‚Í.Â
+Ù"Banner,Interstitial,Rewarded VideoÌ‚Í.Â
+³integratorClassPathÙ'com.buildbox.adapter.admob.AdIntegrator

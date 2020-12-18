@@ -1,0 +1,2 @@
+# Referenced at D:\UNINDRA S2\SKRIPSI UNINDRA\game covid19\Game corona\Covid19\COVID 19\android\app\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:25
+-keep class androidx.multidex.MultiDexApplication { <init>(...); }

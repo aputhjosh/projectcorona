@@ -1,0 +1,7 @@
+#Wed Mar 25 18:43:54 IST 2020
+base.0=D\:\\Buildbox\\COVID 19\\android\\app\\build\\intermediates\\transforms\\dexMerger\\release\\0
+path.1=classes2.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=D\:\\Buildbox\\COVID 19\\android\\app\\build\\intermediates\\transforms\\dexMerger\\release\\0
